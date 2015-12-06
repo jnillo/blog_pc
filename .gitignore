@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # App artifacts
 /_build
 /db
@@ -22,3 +23,9 @@ erl_crash.dump
 # secrets file as long as you replace its contents by environment
 # variables.
 /config/prod.secret.exs
+=======
+/_build
+/deps
+erl_crash.dump
+*.ez
+>>>>>>> c6020d26fd3a904e057a77f368d3d14aca4f53dc

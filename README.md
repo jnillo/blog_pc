@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Patricia
 
 To start your Phoenix app:
@@ -17,3 +18,6 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: http://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+=======
+# blog_pc
+>>>>>>> c6020d26fd3a904e057a77f368d3d14aca4f53dc
